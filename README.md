@@ -223,14 +223,14 @@ A: 检查 `errorbak` 目录中的错误日志，确认文件格式是否支持�
 
 - **作者**: [xgnhack](https://github.com/xgnhack)
 - **贡献者**: 
-  - [Trae](https://github.com/trae) - AI开发助手
-  - [Claude-4](https://www.anthropic.com/) - AI代码生成
+  - [Trae](https://www.trae.ai/) - AI开发助手
+  - [Claude-4](https://claude.ai/) - AI代码生成
   - [Gemini-2.5-pro](https://deepmind.google/technologies/gemini/) - AI技术支持
 
 ## 📞 联系我们
 
 - **GitHub Issues**: [提交问题](https://github.com/xgnhack/image-privacy-guardian/issues)
-- **Email**: 通过GitHub联系作者
+- **Email**: xgnhack@gmail.com
 - **文档**: [项目Wiki](https://github.com/xgnhack/image-privacy-guardian/wiki)
 
 ## 🔄 版本历史
