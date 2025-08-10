@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-一个专业的图像隐私保护工具，专门用于自动监控文件夹并清理图像文件中的元数据、跟踪点和隐私信息，保护您的数字隐私安全。
+一个专业的图像隐私保护工具，专门用于自动监控文件夹并清理图像文件中的元数据（EXIF信息）、跟踪点（彩色激光打印机秘密跟踪点阵）和隐私信息（二进制文件中可能存在的加密代码），保护您的数字隐私安全。
 
 ## ✨ 核心特性
 
