@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "hue_center": 120,
+  "hue_tolerance": 10,
+  "min_saturation": 50,
+  "min_value": 50,
+  "median_blur_kernel": 5,
+  "morphology_iterations": 2
+}

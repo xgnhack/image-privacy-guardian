@@ -1,0 +1,5 @@
+{
+  "backup_folder": "errorbak",
+  "auto_cleanup": false,
+  "max_backup_days": 30
+}

@@ -1,0 +1,6 @@
+{
+  "auto_start_monitoring": false,
+  "minimize_to_tray": false,
+  "auto_save_logs": true,
+  "log_level": "INFO"
+}
