@@ -69,6 +69,17 @@ _AEGIS_BACKUP/
 temp/
 tmp/
 
+# Runtime files (should not be committed)
+aegis_log.txt
+aegis_processed_files.json
+
+# Development files
+prepare_github_release.py
+GITHUB_RELEASE_GUIDE.md
+release_info.json
+RELEASE_NOTES.txt
+
 # Build artifacts
 build_exe.py
 ImagePrivacyGuardian.exe
+windows/
