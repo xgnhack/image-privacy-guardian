@@ -72,3 +72,22 @@ tmp/
 # Build artifacts
 build_exe.py
 ImagePrivacyGuardian.exe
+
+# Test files and directories
+test/
+test_*/
+*_test/
+*test*.py
+debug_*.py
+batch_test_*.py
+performance_test*.py
+*_test_output/
+jpg_quality_test_output/
+test_transparency_*/
+
+# Temporary and debug files
+aegis_log.txt
+aegis_processed_files.json
+performance_test_report_*.json
+png_transparency_processor.py
+prepare_github_release.py
